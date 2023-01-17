@@ -1,0 +1,8 @@
+{
+	"name": "mp3dircut",
+	"version": "1.0.0",
+	"description": "Mp3 directory cutter by timings",
+	"main": "index.js",
+	"author": "Pavel Chibisov",
+	"license": "MIT"
+}
